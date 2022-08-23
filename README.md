@@ -16,7 +16,7 @@ Artigos
 -------
 - [Duarte M (2014) A física da bicicleta no futebol. Ciência Hoje, 53, 313, 16-21](https://bmclab.pesquisa.ufabc.edu.br/pubs/ch14.pdf)  
 - [Julgar o jogo e o jogo de julgar - uma doce ilusão](https://bmclab.pesquisa.ufabc.edu.br/wp-content/uploads/2022/08/Julgar-o-jogo-e-o-jogo-de-julgar.pdf)  
-- [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
+
 - 
 
 Vídeos
@@ -28,7 +28,26 @@ Vídeos
 - [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
 - 
 
+Experimentos e Atividades
+-------------------------
+- [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
+- [Science Journal - A Mobile App for Android Devices](https://www.exploratorium.edu/explore/apps/science-journal-app)  
+- [Exploratorium - atividades](https://www.exploratorium.edu/baseball/activities.html)  
+
+
 Sites com conteúdo interativo  
 -----------------------------
 - [Aerodynamics of Soccer](https://www.grc.nasa.gov/www/k-12/airplane/soccer.html)  
+
+Museus e exposições
+-------------------
+- [Exploratorium](https://www.exploratorium.edu/). Localizado em San Francisco, Ca, EUA, o Exploratorium é um laboratório público de aprendizagem que explora o mundo através da ciência, arte e percepção humana.  
+  - [Science of baseball](https://www.exploratorium.edu/baseball/index.html)  
+  
+Método científico
+-----------------
+ - [Scientific Method For Kids with Examples](https://littlebinsforlittlehands.com/using-scientific-method-experiments-kids/)  
+ - [Six-Step Scientific Method for Elementary Kids](https://classroom.synonym.com/)  
+ 
+
 - 
