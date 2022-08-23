@@ -46,8 +46,21 @@ Museus e exposições
   
 Método científico
 -----------------
+ - [O método científico](https://pt.khanacademy.org/science/biology/intro-to-biology/science-of-biology/v/the-scientific-method)  
  - [Scientific Method For Kids with Examples](https://littlebinsforlittlehands.com/using-scientific-method-experiments-kids/)  
  - [Six-Step Scientific Method for Elementary Kids](https://classroom.synonym.com/)  
  
 
-- 
+Outros tópicos relacionados
+---------------------------
+- [Anatomia e fisiologia dos sistemas digestório, cardiorespiratório e ósseo](https://pt.khanacademy.org/science/ciencias-em-energia-biologica-da-origem-a-utilizacao/x648e0227f5ed15e4:anatomia-e-fisiologia-envolvidas-com-as-praticas-esportivas)  
+
+
+Softwares gratuitos para análise do movimento
+---------------------------------------------
+ - [Kinovea](https://www.kinovea.org/)  
+ - [Tracker](https://physlets.org/tracker/)
+ - [SkillSpector]() (clicar em Official Download)
+ - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
+ - [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8)  
+
