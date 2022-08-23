@@ -60,7 +60,7 @@ Softwares gratuitos para análise do movimento
 ---------------------------------------------
  - [Kinovea](https://www.kinovea.org/)  
  - [Tracker](https://physlets.org/tracker/)
- - [SkillSpector]() (clicar em Official Download)
+ - [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html)  
  - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
  - [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8)  
 
