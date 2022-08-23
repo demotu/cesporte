@@ -27,7 +27,7 @@ Vídeos
 - [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
 - 
 
-Sites com conteúdo inteartivo  
+Sites com conteúdo interativo  
 -----------------------------
 - [Aerodynamics of Soccer](https://www.grc.nasa.gov/www/k-12/airplane/soccer.html)  
 - 
