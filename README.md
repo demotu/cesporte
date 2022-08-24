@@ -4,9 +4,14 @@
 Links para sites
 ----------------
 - [The Physics Of Sports](https://www.real-world-physics-problems.com/physics-of-sports.html)  
+- [Sports science for kids](https://www.sciencekids.co.nz/sports.html)  
 - [Biomecânica do Chute de Bicicleta](https://bmclab.pesquisa.ufabc.edu.br/biomecanica-do-chute-de-bicicleta/)  
 - [O salto de Daiane do Santos](https://bmclab.pesquisa.ufabc.edu.br/o-salto-de-daiane-do-santos/)  
 - [Análise biomecânica do salto em distância](https://bmclab.pesquisa.ufabc.edu.br/analise-biomecanica-do-salto-em-distancia/)  
+- [Science of the Summer Olympics: Engineering in Sports](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Summer%20Olympics:%20Engineering%20in%20Sports)  
+- [Science of the Winter Olympics](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Winter%20Olympics)  
+- [Science of Speed](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20Speed)  
+- [11A10.50 - The Physics of Sports](https://instructional-resources.physics.uiowa.edu/demos/11a1050-physics-sports)  
 - 
 
 Livros
@@ -53,8 +58,10 @@ Sites com conteúdo interativo
 
 Museus e exposições
 -------------------
-- [Exploratorium](https://www.exploratorium.edu/). Localizado em San Francisco, Ca, EUA, o Exploratorium é um laboratório público de aprendizagem que explora o mundo através da ciência, arte e percepção humana.  
+- [Exploratorium](https://www.exploratorium.edu/). Laboratório público de aprendizagem que explora o mundo através da ciência, arte e percepção humana. São Francisco, CA, EUA.   
   - [Science of baseball](https://www.exploratorium.edu/baseball/index.html)  
+- [SPORTSZONE - The Science of Sport](https://www.fi.edu/exhibit/sportszone). Exposição permanente que explora como o esporte conecta a ciência do corpo humano, as leis do movimento e a inovação técnica. Filadélfia, PA, EUA.  
+- [Sportsworks](https://museumsvictoria.com.au/scienceworks/whats-on/sportsworks/). A ciência por trás de mover seu corpo. Spotswood, Vitória, Austrália.
   
 Método científico
 -----------------
