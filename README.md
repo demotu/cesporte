@@ -42,7 +42,7 @@ Vídeos
 Experimentos e Atividades
 -------------------------
 - [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
-- [Science Journal - A Mobile App for Android Devices](https://www.exploratorium.edu/explore/apps/science-journal-app)  
+- [Arduino Science Journal - Um app que permite utilizar sensores do celular para fazer experimentos](https://www.arduino.cc/education/science-journal)  
 - [Exploratorium - atividades](https://www.exploratorium.edu/baseball/activities.html)  
 - 
 
@@ -78,7 +78,7 @@ Outros tópicos relacionados
 
 Softwares gratuitos para análise do movimento
 ---------------------------------------------
-- [Science Journal - A Mobile App for Android Devices](https://www.exploratorium.edu/explore/apps/science-journal-app)  
+- [Arduino Science Journal - Um app que permite utilizar sensores do celular para fazer experimentos](https://www.arduino.cc/education/science-journal)  
 - [Kinovea](https://www.kinovea.org/)  
 - [Tracker](https://physlets.org/tracker/)
 - [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html)  
