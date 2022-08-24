@@ -4,6 +4,9 @@
 Links para sites
 ----------------
 - [The Physics Of Sports](https://www.real-world-physics-problems.com/physics-of-sports.html)  
+- [Biomecânica do Chute de Bicicleta](https://bmclab.pesquisa.ufabc.edu.br/biomecanica-do-chute-de-bicicleta/)  
+- [O salto de Daiane do Santos](https://bmclab.pesquisa.ufabc.edu.br/o-salto-de-daiane-do-santos/)  
+- [Análise biomecânica do salto em distância](https://bmclab.pesquisa.ufabc.edu.br/analise-biomecanica-do-salto-em-distancia/)  
 - 
 
 Livros
@@ -56,6 +59,7 @@ Museus e exposições
 Método científico
 -----------------
  - [O método científico](https://pt.khanacademy.org/science/biology/intro-to-biology/science-of-biology/v/the-scientific-method)  
+ - [Método científico](https://escolakids.uol.com.br/ciencias/metodo-cientifico.htm)  
  - [Scientific Method For Kids with Examples](https://littlebinsforlittlehands.com/using-scientific-method-experiments-kids/)  
  - [Six-Step Scientific Method for Elementary Kids](https://classroom.synonym.com/)  
  - 
