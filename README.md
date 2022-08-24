@@ -28,11 +28,11 @@ Vídeos
 - [Snooker physics](https://youtu.be/mmSkconZv8E)  
 - [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
 - TEDEd lessons
- - [Football physics: The "impossible" free kick](https://ed.ted.com/lessons/football-physics-the-impossible-free-kick-erez-garty)  
- - [An athlete uses physics to shatter world records](https://ed.ted.com/lessons/an-athlete-uses-physics-to-shatter-world-records-asaf-bar-yosef)  
- - [The physics of the "hardest move" in ballet](https://ed.ted.com/lessons/the-physics-of-the-hardest-move-in-ballet-arleen-sugano)  
- - [How fast can we go?](https://ed.ted.com/best_of_web/tjUwWS0i)  
- - []()
+  - [Football physics: The "impossible" free kick](https://ed.ted.com/lessons/football-physics-the-impossible-free-kick-erez-garty)  
+  - [An athlete uses physics to shatter world records](https://ed.ted.com/lessons/an-athlete-uses-physics-to-shatter-world-records-asaf-bar-yosef)  
+  - [The physics of the "hardest move" in ballet](https://ed.ted.com/lessons/the-physics-of-the-hardest-move-in-ballet-arleen-sugano)  
+  - [How fast can we go?](https://ed.ted.com/best_of_web/tjUwWS0i)  
+  - []()
 
 Experimentos e Atividades
 -------------------------
@@ -58,11 +58,11 @@ Museus e exposições
   
 Método científico
 -----------------
- - [O método científico](https://pt.khanacademy.org/science/biology/intro-to-biology/science-of-biology/v/the-scientific-method)  
- - [Método científico](https://escolakids.uol.com.br/ciencias/metodo-cientifico.htm)  
- - [Scientific Method For Kids with Examples](https://littlebinsforlittlehands.com/using-scientific-method-experiments-kids/)  
- - [Six-Step Scientific Method for Elementary Kids](https://classroom.synonym.com/)  
- - 
+- [O método científico](https://pt.khanacademy.org/science/biology/intro-to-biology/science-of-biology/v/the-scientific-method)  
+- [Método científico](https://escolakids.uol.com.br/ciencias/metodo-cientifico.htm)  
+- [Scientific Method For Kids with Examples](https://littlebinsforlittlehands.com/using-scientific-method-experiments-kids/)  
+- [Six-Step Scientific Method for Elementary Kids](https://classroom.synonym.com/)  
+- 
  
 Outros tópicos relacionados
 ---------------------------
@@ -71,9 +71,10 @@ Outros tópicos relacionados
 
 Softwares gratuitos para análise do movimento
 ---------------------------------------------
- - [Kinovea](https://www.kinovea.org/)  
- - [Tracker](https://physlets.org/tracker/)
- - [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html)  
- - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
- - [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8)  
- - 
+- [Science Journal - A Mobile App for Android Devices](https://www.exploratorium.edu/explore/apps/science-journal-app)  
+- [Kinovea](https://www.kinovea.org/)  
+- [Tracker](https://physlets.org/tracker/)
+- [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html)  
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
+- [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8)  
+- 
