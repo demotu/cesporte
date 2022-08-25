@@ -24,7 +24,7 @@ Vídeos
   - [How fast can we go?](https://ed.ted.com/best_of_web/tjUwWS0i)  
 - [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
 
-Experimentos, atividades e idéias para projetos
+Experimentos, atividades e ideias de projetos
 -----------------------------------------------
 - [Exploratorium - atividades](https://www.exploratorium.edu/baseball/activities.html)   
 - [Sports Science Fair Projects](https://www.sciencekids.co.nz/projects/sports.html)  
