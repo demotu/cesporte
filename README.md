@@ -10,7 +10,6 @@ Links para sites
 - [Science of the Summer Olympics: Engineering in Sports](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Summer%20Olympics:%20Engineering%20in%20Sports)  
 - [Science of the Winter Olympics](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Winter%20Olympics)  
 - [Science of Speed](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20Speed)  
-- [11A10.50 - The Physics of Sports](https://instructional-resources.physics.uiowa.edu/demos/11a1050-physics-sports)   
 
 Vídeos
 ------
@@ -72,6 +71,7 @@ Artigos
 -------
 - [Duarte M (2014) A física da bicicleta no futebol. Ciência Hoje, 53, 313, 16-21](https://bmclab.pesquisa.ufabc.edu.br/pubs/ch14.pdf)  
 - [Julgar o jogo e o jogo de julgar - uma doce ilusão](https://bmclab.pesquisa.ufabc.edu.br/wp-content/uploads/2022/08/Julgar-o-jogo-e-o-jogo-de-julgar.pdf)  
+- [11A10.50 - The Physics of Sports](https://instructional-resources.physics.uiowa.edu/demos/11a1050-physics-sports)   
 
 Museus e exposições
 -------------------
