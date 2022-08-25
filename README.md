@@ -10,6 +10,13 @@ Links para sites
 - [Biomecânica do Chute de Bicicleta](https://bmclab.pesquisa.ufabc.edu.br/biomecanica-do-chute-de-bicicleta/)  
 - [O salto de Daiane do Santos](https://bmclab.pesquisa.ufabc.edu.br/o-salto-de-daiane-do-santos/)  
 - [Análise biomecânica do salto em distância](https://bmclab.pesquisa.ufabc.edu.br/analise-biomecanica-do-salto-em-distancia/)  
+- Física do salto vertical  
+  - [Sport Science Looks at the Vertical Leap](https://www.wired.com/2011/11/sport-science-looks-at-the-vertical-leap/)  
+  - [The Physics of Nike+ Hyperdunk](https://www.wired.com/2012/09/the-physics-of-nike-hyperdunk-2/)  
+  - [Biomechanical analysis of vertical jumps](https://nbviewer.org/github/BMClab/BMC/blob/master/notebooks/VerticalJump.ipynb)  
+- Física no parque de diversões  
+  - [Roller Coaster Science: Using Smartphones to Measure g-Forces](https://www.compadre.org/precollege/items/detail.cfm?ID=14180&Attached=1)  
+  - [St. Louis Area Physics Teachers' (SLAPT) resources](https://www.slapt.org/resources/sixflags/)  
 
 Vídeos
 ------
@@ -32,7 +39,9 @@ Experimentos, atividades e ideias de projetos
 - [Sports Science Science Projects](https://www.sciencebuddies.org/science-fair-projects/project-ideas/sports-science)  
 - [20 SPORTY SCIENCE IDEAS](https://www.science-sparks.com/sports-science/)  
 - [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
-- [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
+- [Science with a Smartphone: Accelerometer](https://www.scientificamerican.com/article/science-with-a-smartphone-accelerometer/)  
+  - [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
+  - [Physics Toolbox Sensor Suite](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite). App que permite utilizar sensores do celular para fazer experimentos. 
 
 Sites com conteúdo interativo  
 -----------------------------
@@ -57,11 +66,13 @@ Outros tópicos relacionados
 Softwares gratuitos para análise do movimento
 ---------------------------------------------
 - [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
+- [Physics Toolbox Sensor Suite](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite). App que permite utilizar sensores do celular para fazer experimentos. 
 - [Kinovea](https://www.kinovea.org/). Ferramenta de anotação de vídeo para análise de esportes.  
 - [Tracker](https://physlets.org/tracker/). Ferramenta de análise e modelagem de vídeo para ser usada no ensino de física.
 - [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html). Ferramenta de análise de movimento baseada em vídeo para Windows.  
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). Ferramenta de detecção de várias pessoas em tempo real.  
 - [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8). Ferramenta de captura de movimento de inteligência artifical baseada em navegador de internet.  
+- 
 
 Livros
 ------
