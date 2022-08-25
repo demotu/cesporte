@@ -4,12 +4,12 @@ Links para sites
 ----------------
 - [The Physics Of Sports](https://www.real-world-physics-problems.com/physics-of-sports.html). Site com problemas de física de vários esportes, completos com soluções,  
 - [Sports science for kids](https://www.sciencekids.co.nz/sports.html)  
-- [Biomecânica do Chute de Bicicleta](https://bmclab.pesquisa.ufabc.edu.br/biomecanica-do-chute-de-bicicleta/)  
-- [O salto de Daiane do Santos](https://bmclab.pesquisa.ufabc.edu.br/o-salto-de-daiane-do-santos/)  
-- [Análise biomecânica do salto em distância](https://bmclab.pesquisa.ufabc.edu.br/analise-biomecanica-do-salto-em-distancia/)  
 - [Science of the Summer Olympics: Engineering in Sports](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Summer%20Olympics:%20Engineering%20in%20Sports)  
 - [Science of the Winter Olympics](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Winter%20Olympics)  
 - [Science of Speed](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20Speed)  
+- [Biomecânica do Chute de Bicicleta](https://bmclab.pesquisa.ufabc.edu.br/biomecanica-do-chute-de-bicicleta/)  
+- [O salto de Daiane do Santos](https://bmclab.pesquisa.ufabc.edu.br/o-salto-de-daiane-do-santos/)  
+- [Análise biomecânica do salto em distância](https://bmclab.pesquisa.ufabc.edu.br/analise-biomecanica-do-salto-em-distancia/)  
 
 Vídeos
 ------
