@@ -42,7 +42,7 @@ Vídeos
 Experimentos e Atividades
 -------------------------
 - [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
-- [Arduino Science Journal - Um app que permite utilizar sensores do celular para fazer experimentos](https://www.arduino.cc/education/science-journal)  
+- [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
 - [Exploratorium - atividades](https://www.exploratorium.edu/baseball/activities.html)  
 - 
 
@@ -78,10 +78,10 @@ Outros tópicos relacionados
 
 Softwares gratuitos para análise do movimento
 ---------------------------------------------
-- [Arduino Science Journal - Um app que permite utilizar sensores do celular para fazer experimentos](https://www.arduino.cc/education/science-journal)  
-- [Kinovea](https://www.kinovea.org/)  
-- [Tracker](https://physlets.org/tracker/)
-- [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html)  
-- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
-- [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8)  
+- [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
+- [Kinovea](https://www.kinovea.org/). Ferramenta de anotação de vídeo para análise de esportes.  
+- [Tracker](https://physlets.org/tracker/). Ferramenta de análise e modelagem de vídeo para ser usada no ensino de física.
+- [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html). Ferramenta de análise de movimento baseada em vídeo para Windows.  
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). Ferramenta de detecção de várias pessoas em tempo real.  
+- [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8). Ferramenta de captura de movimento de inteligência artifical baseada em navegador de internet.  
 - 
