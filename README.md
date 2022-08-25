@@ -2,7 +2,7 @@
 
 Links para sites
 ----------------
-- [The Physics Of Sports](https://www.real-world-physics-problems.com/physics-of-sports.html). Site com problemas de física de vários esportes, com soluções.  
+- [The Physics of Sports](https://www.real-world-physics-problems.com/physics-of-sports.html). Site com problemas de física de vários esportes, com soluções.  
 - [Sports science for kids](https://www.sciencekids.co.nz/sports.html)  
 - [Science of the Summer Olympics: Engineering in Sports](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Summer%20Olympics:%20Engineering%20in%20Sports)  
 - [Science of the Winter Olympics](https://www.nsf.gov/news/mmg/index.jsp?series_name=Science%20of%20the%20Winter%20Olympics)  
