@@ -27,13 +27,13 @@ Vídeos
 
 Experimentos, atividades e idéias para projetos
 -----------------------------------------------
-- [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
-- [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
 - [Exploratorium - atividades](https://www.exploratorium.edu/baseball/activities.html)   
 - [Sports Science Fair Projects](https://www.sciencekids.co.nz/projects/sports.html)  
 - [Sports Science Fair Project Ideas](https://www.thoughtco.com/sports-science-fair-project-ideas-609052)  
 - [Sports Science Science Projects](https://www.sciencebuddies.org/science-fair-projects/project-ideas/sports-science)  
 - [20 SPORTY SCIENCE IDEAS](https://www.science-sparks.com/sports-science/)  
+- [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
+- [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
 
 Sites com conteúdo interativo  
 -----------------------------
