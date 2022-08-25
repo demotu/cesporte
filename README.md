@@ -57,7 +57,7 @@ Método científico
 - [O método científico](https://pt.khanacademy.org/science/biology/intro-to-biology/science-of-biology/v/the-scientific-method)  
 - [Método científico](https://escolakids.uol.com.br/ciencias/metodo-cientifico.htm)  
 - [Scientific Method For Kids with Examples](https://littlebinsforlittlehands.com/using-scientific-method-experiments-kids/)  
-- [Six-Step Scientific Method for Elementary Kids](https://classroom.synonym.com/)   
+- [The Scientific Method For Kids: How To Use This Free Printable](https://earlylearningideas.com/scientific-method-for-kids/)   
  
 Outros tópicos relacionados
 ---------------------------
