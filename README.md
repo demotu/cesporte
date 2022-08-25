@@ -71,7 +71,7 @@ Artigos
 -------
 - [Duarte M (2014) A física da bicicleta no futebol. Ciência Hoje, 53, 313, 16-21](https://bmclab.pesquisa.ufabc.edu.br/pubs/ch14.pdf)  
 - [Duarte M (2015) Julgar o jogo e o jogo de julgar - uma doce ilusão](https://bmclab.pesquisa.ufabc.edu.br/wp-content/uploads/2022/08/Julgar-o-jogo-e-o-jogo-de-julgar.pdf)  
-- [11A10.50 - The Physics of Sports](https://instructional-resources.physics.uiowa.edu/demos/11a1050-physics-sports)   
+- [11A10.50 - The Physics of Sports](https://instructional-resources.physics.uiowa.edu/demos/11a1050-physics-sports). Referências de artigos sobre física de vários esporte (só citação, não tem o artigo).   
 
 Museus e exposições
 -------------------
