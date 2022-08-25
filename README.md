@@ -65,7 +65,8 @@ Softwares gratuitos para análise do movimento
 
 Livros
 ------
-- [Física do futebol](https://www.ofitexto.com.br/livro/fisica-do-futebol/)  
+- [Heskett DR (2020) The Physics of Sports: a Textbook (with answers)](https://digitalcommons.uri.edu/physicsofsports/67)  
+- [Duarte M, Okuno E (2012) Física do futebol: mecânica. ISBN:978-85-7975-030-4. Editora Oficina de Textos](https://www.ofitexto.com.br/livro/fisica-do-futebol/)  
 
 Artigos
 -------
