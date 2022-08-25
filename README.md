@@ -17,12 +17,12 @@ Vídeos
 - [The physics of cycling](https://youtu.be/CwckQUPt0GE)  
 - [The physics of swimming](https://youtu.be/RWvIJVtDVA8)  
 - [Snooker physics](https://youtu.be/mmSkconZv8E)  
-- [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
 - TEDEd lessons
   - [Football physics: The "impossible" free kick](https://ed.ted.com/lessons/football-physics-the-impossible-free-kick-erez-garty)  
   - [An athlete uses physics to shatter world records](https://ed.ted.com/lessons/an-athlete-uses-physics-to-shatter-world-records-asaf-bar-yosef)  
   - [The physics of the "hardest move" in ballet](https://ed.ted.com/lessons/the-physics-of-the-hardest-move-in-ballet-arleen-sugano)  
   - [How fast can we go?](https://ed.ted.com/best_of_web/tjUwWS0i)  
+- [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
 
 Experimentos, atividades e idéias para projetos
 -----------------------------------------------
