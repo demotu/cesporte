@@ -30,6 +30,9 @@ Vídeos
   - [The physics of the "hardest move" in ballet](https://ed.ted.com/lessons/the-physics-of-the-hardest-move-in-ballet-arleen-sugano)  
   - [How fast can we go?](https://ed.ted.com/best_of_web/tjUwWS0i)  
 - [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
+- Vídeos de bolas fazendo movimentos em curva:  
+  - [Top 10 Knuckleball Goals](https://youtu.be/00fcef8z0z0)  
+  - [Top 10 Outstanding Curved Free Kicks](https://youtu.be/ArI94Pmpudw)  
 
 Experimentos, atividades e ideias de projetos
 -----------------------------------------------
@@ -72,7 +75,7 @@ Softwares gratuitos para análise do movimento
 - [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html). Ferramenta de análise de movimento baseada em vídeo para Windows.  
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). Ferramenta de detecção de várias pessoas em tempo real.  
 - [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8). Ferramenta de captura de movimento de inteligência artifical baseada em navegador de internet.  
-- [MediaPipe](https://google.github.io/mediapipe/). Ferramenta de captura de movimento. [Tutorial para estimar postura durante um exercício](https://youtu.be/5kaX3ta398w).
+- [MediaPipe](https://google.github.io/mediapipe/). Ferramenta de captura de movimento. Exemplos para estimar postura durante um exercício: [1](https://youtu.be/MV_sZNAiVts), [2](https://youtu.be/5kaX3ta398w).
 - 
 
 Livros
