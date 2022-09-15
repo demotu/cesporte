@@ -30,9 +30,11 @@ Vídeos
   - [The physics of the "hardest move" in ballet](https://ed.ted.com/lessons/the-physics-of-the-hardest-move-in-ballet-arleen-sugano)  
   - [How fast can we go?](https://ed.ted.com/best_of_web/tjUwWS0i)  
 - [A Ciência nos Esportes](https://youtu.be/XwOSVNEQl-s)  
-- Vídeos de bolas fazendo movimentos em curva:  
+- Vídeos de bolas fazendo movimentos em curva e irregulares:  
   - [Top 10 Knuckleball Goals](https://youtu.be/00fcef8z0z0)  
   - [Top 10 Outstanding Curved Free Kicks](https://youtu.be/ArI94Pmpudw)  
+  - [Juninho ● Best Free Kicks Ever](https://youtu.be/Cu79Lpabhkk)  
+  - [How does a Knuckleball Work? The Science of the Knuckleball]()
 
 Experimentos, atividades e ideias de projetos
 -----------------------------------------------
@@ -88,6 +90,7 @@ Artigos
 - [Duarte M (2014) A física da bicicleta no futebol. Ciência Hoje, 53, 313, 16-21](https://bmclab.pesquisa.ufabc.edu.br/pubs/ch14.pdf)  
 - [Duarte M (2015) Julgar o jogo e o jogo de julgar - uma doce ilusão](https://bmclab.pesquisa.ufabc.edu.br/wp-content/uploads/2022/08/Julgar-o-jogo-e-o-jogo-de-julgar.pdf)  
 - [11A10.50 - The Physics of Sports](https://instructional-resources.physics.uiowa.edu/demos/11a1050-physics-sports). Referências de artigos sobre física de vários esportes (só citação, não tem o artigo).   
+- [Texier BD, Cohen C, Quere D, Clanet C (2016) Physics of knuckleballs. New J. Phys. 18 073027](https://iopscience.iop.org/article/10.1088/1367-2630/18/7/073027/pdf)  
 
 Museus e exposições
 -------------------
