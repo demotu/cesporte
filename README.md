@@ -72,6 +72,7 @@ Softwares gratuitos para análise do movimento
 - [SkillSpector](https://en.freedownloadmanager.org/Windows-PC/SkillSpector-FREE.html). Ferramenta de análise de movimento baseada em vídeo para Windows.  
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). Ferramenta de detecção de várias pessoas em tempo real.  
 - [plask](https://plask.ai/). [Tutorial](https://youtu.be/qLfrrtJNWP8). Ferramenta de captura de movimento de inteligência artifical baseada em navegador de internet.  
+- [MediaPipe](https://google.github.io/mediapipe/). Ferramenta de captura de movimento. [Tutorial para estimar postura durante um exercício](https://youtu.be/5kaX3ta398w).
 - 
 
 Livros
