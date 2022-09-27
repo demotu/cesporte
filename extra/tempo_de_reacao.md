@@ -8,8 +8,9 @@ Explorar a cinemática de um corpo em movimento uniformemente acelerado (queda l
 
 ## Material necessário  
 
-  1. Régua de 30 cm de comprimento.
-  2. Duas pessoas (uma para ter seu tempo de reação medido e outra para ajudar na realização do experimento)
+  1. Régua de 30 cm de comprimento.  
+  2. Papel, caneta e calculadora para anotar as medidas e fazer os cálculos.  
+  3. Duas pessoas (uma para ter seu tempo de reação medido e outra para ajudar na realização do experimento).  
 
 ## Tarefas
 
