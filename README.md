@@ -38,6 +38,7 @@ Vídeos
 
 Experimentos, atividades e ideias de projetos
 -----------------------------------------------
+- [Atividades práticas](https://bmclab.pesquisa.ufabc.edu.br/pubs/Fisica_do_Futebol_Atividades_Praticas.pdf) do livro Física do Futebol.  
 - [Exploratorium - atividades](https://www.exploratorium.edu/baseball/activities.html)   
 - [Sports Science Fair Projects](https://www.sciencekids.co.nz/projects/sports.html)  
 - [Sports Science Fair Project Ideas](https://www.thoughtco.com/sports-science-fair-project-ideas-609052)  
