@@ -1,6 +1,6 @@
 # Medida do tempo de reação de uma pessoa
 
-**Um experimento simples para medir o tempo de reação de uma pessoa a partir da relação entre distância e tempo de uma queda livre.**
+**Um experimento simples para medir o tempo de reação de uma pessoa a partir da relação entre distância e tempo de queda livre de um objeto.**
 
 ## Objetivo  
 
