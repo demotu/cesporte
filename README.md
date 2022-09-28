@@ -33,7 +33,7 @@ Vídeos
 - Vídeos de bolas fazendo movimentos em curva e irregulares:  
   - [Top 10 Knuckleball Goals](https://youtu.be/00fcef8z0z0)  
   - [Top 10 Outstanding Curved Free Kicks](https://youtu.be/ArI94Pmpudw)  
-  - [Juninho ● Best Free Kicks Ever](https://youtu.be/Cu79Lpabhkk)  
+  - [Juninho Best Free Kicks Ever](https://youtu.be/Cu79Lpabhkk)  
   - [How does a Knuckleball Work? The Science of the Knuckleball]()
 
 Experimentos, atividades e ideias de projetos
