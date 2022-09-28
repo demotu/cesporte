@@ -29,4 +29,4 @@ Explorar a cinemática de um corpo em movimento uniformemente acelerado (queda l
 
  - [Vídeo mostrando o experimento](https://youtu.be/g0xpyrc9iD4)  
  - [Texto explicando os cálculos para a medida do tempo de reação](https://educador.brasilescola.uol.com.br/estrategias-ensino/medida-tempo-reacao.htm)  
- - [Vídeo com a solução de uma questão do ENEM sobre esse experimemnto](https://youtu.be/IY1w034X210)  
+ - [Vídeo com a solução de uma questão do ENEM sobre esse experimemnto](https://youtu.be/qJ9Jp_zmBQw).  
