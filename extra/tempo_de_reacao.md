@@ -12,7 +12,7 @@ Explorar a cinemática de um corpo em movimento uniformemente acelerado (queda l
   2. Papel, caneta e calculadora para anotar as medidas e fazer os cálculos.  
   3. Duas pessoas (uma para ter seu tempo de reação medido e outra para ajudar na realização do experimento).  
 
-## Tarefas
+## Experimento
 
   1. O experimentador solicita para a pessoa que irá ter seu tempo de reação medido posicionar os dedos da mão, polegar e indicador, semiabertos (como se fosse pegar algo com as pontas dos dedos) na horizontal e a frente dela.  
   2. O experimentador segura a régua na vertical pela extremidade e a outra extremidade deve ter a marcação de zero da régua alinhada entre os dedos semiabertos da pessoa avaliada.  
