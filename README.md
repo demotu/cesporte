@@ -17,6 +17,7 @@ Links para sites
 - Física no parque de diversões  
   - [Roller Coaster Science: Using Smartphones to Measure g-Forces](https://www.compadre.org/precollege/items/detail.cfm?ID=14180&Attached=1)  
   - [St. Louis Area Physics Teachers' (SLAPT) resources](https://www.slapt.org/resources/sixflags/)  
+- [Faça um cavalo de papel que anda sozinho](https://frugalfun4boys.com/paper-horse-that-walks/) 
 
 Vídeos
 ------
