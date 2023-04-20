@@ -17,7 +17,6 @@ Links para sites
 - Física no parque de diversões  
   - [Roller Coaster Science: Using Smartphones to Measure g-Forces](https://www.compadre.org/precollege/items/detail.cfm?ID=14180&Attached=1)  
   - [St. Louis Area Physics Teachers' (SLAPT) resources](https://www.slapt.org/resources/sixflags/)  
-- [Faça um cavalo de papel que anda sozinho](https://frugalfun4boys.com/paper-horse-that-walks/) 
 
 Vídeos
 ------
@@ -50,7 +49,8 @@ Experimentos, atividades e ideias de projetos
 - [Vogt GL () Science and Sports](https://www.nasa.gov/pdf/591752main_Science-Sports.pdf)  
 - [Science with a Smartphone: Accelerometer](https://www.scientificamerican.com/article/science-with-a-smartphone-accelerometer/)  
   - [Arduino Science Journal](https://www.arduino.cc/education/science-journal). App que permite utilizar sensores do celular para fazer experimentos.  
-  - [Physics Toolbox Sensor Suite](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite). App que permite utilizar sensores do celular para fazer experimentos. 
+  - [Physics Toolbox Sensor Suite](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite). App que permite utilizar sensores do celular para fazer experimentos.  
+- [Faça um cavalo de papel que anda sozinho](https://frugalfun4boys.com/paper-horse-that-walks/)   
 
 Sites com conteúdo interativo  
 -----------------------------
